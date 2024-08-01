@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex justify-between items-center">
           <div>
             <h1 className="text-5xl text-white font-semibold">
-              Let’s start working <br /> to build a brighter <br /> future.
+              Let&apos;s start working <br /> to build a brighter <br /> future.
             </h1>
             <p className="font-light mt-5">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. <br />{" "}
